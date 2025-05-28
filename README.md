@@ -22,5 +22,4 @@ Addition Functionalites that can be added include:
 4. Further linked pages for individual videos, subsciptions page, library page, etc.
 
 > [!NOTE]
-
 > I built this clone by following the tutorial by [SuperSimpleWeb] (https://youtu.be/G3e-cpL7ofc?si=dSyd0O3vZO6MqpGs)
